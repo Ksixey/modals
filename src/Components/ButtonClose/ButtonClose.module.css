@@ -1,0 +1,8 @@
+.buttonClose{
+    position: absolute;
+    right: 20px;
+    top: 10px;
+    border: none;
+    background-color: aliceblue;
+    cursor: pointer;
+}
